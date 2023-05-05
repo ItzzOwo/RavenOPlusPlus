@@ -1,0 +1,31 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build/*
+!build/libs
+.gradle
+
+# other
+eclipse
+run
+.shelf
+
+
+logs/
+saves/
+mc/
+jh
+src/main/java/keystrokesmod/client/module/modules/combat/KillAura.java
